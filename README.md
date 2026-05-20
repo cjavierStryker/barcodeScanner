@@ -54,4 +54,4 @@ Where XXX is the command name as written on the barcode (so * TEST would just be
 
 **4)** After entering the correct code, print the barcode and rerun the script to update it. Then after scanning the barcode with Excel open the code should execute.
 
-**Debug:** In order to see how the code executes and whether your specific macro was triggered, click the AHK icon in the system tray (shown below) and select *Open* to see what lines were ran. ![ahk](config/ahk.png)
+**Debug:** In order to see how the code executes and whether your specific macro was triggered, click the AHK icon in the system tray (shown below) and select *Open* to see what lines were ran. ![ahk](config/AHK.png)
