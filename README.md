@@ -19,7 +19,7 @@ Usage: Scanning this barcode with the script running and Excel open will undo th
 
 Barcode:
 	![serial number](config/SerialNum.jpg)
-	![serial number GIF](config/Serial#.gif)
+	![serial number GIF](config/SerialNum.gif)
 
 Usage: Scanning this barcode with the script running and Excel open will bring you up one cell and to the right, which should be the Serial Number column. After pressing Enter it will realign you with the Asset Tag column.
 
